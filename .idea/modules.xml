@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Automated_Agricultural_Equipment_Rental_System.iml" filepath="$PROJECT_DIR$/.idea/modules/Automated_Agricultural_Equipment_Rental_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Automated_Agricultural_Equipment_Rental_System.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Automated_Agricultural_Equipment_Rental_System.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Automated_Agricultural_Equipment_Rental_System.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Automated_Agricultural_Equipment_Rental_System.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Automated_Agricultural_Equipment_Rental_System.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Automated_Agricultural_Equipment_Rental_System.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Automated_Agricultural_Equipment_Rental_System.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Automated_Agricultural_Equipment_Rental_System.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

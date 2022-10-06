@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebase:geofire-android:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f32ccd9828d058a53be7200d5ef2f2e5/transformed/jetified-geofire-android-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f32ccd9828d058a53be7200d5ef2f2e5/transformed/jetified-geofire-android-3.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f32ccd9828d058a53be7200d5ef2f2e5/transformed/jetified-geofire-android-3.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2e74a06f6fe9844a4ad67c7d80e7c7e3/transformed/jetified-geofire-android-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2e74a06f6fe9844a4ad67c7d80e7c7e3/transformed/jetified-geofire-android-3.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2e74a06f6fe9844a4ad67c7d80e7c7e3/transformed/jetified-geofire-android-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa74522526d1054a77038bbf728f7739/transformed/jetified-geofire-android-3.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fa74522526d1054a77038bbf728f7739/transformed/jetified-geofire-android-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa74522526d1054a77038bbf728f7739/transformed/jetified-geofire-android-3.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/geofire-android/3.1.0/54110145f24ba35f83f84adb4ed11e29780aeab2/geofire-android-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/geofire-android/3.1.0/b45560ad395b85a7e4b0d8de48568064f10521a9/geofire-android-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

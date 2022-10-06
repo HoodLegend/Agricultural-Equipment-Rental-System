@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_equipment_booked.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_equipment_booked.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_equipment_owner_maps.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_equipment_owner_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_equipment_owner_registration.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_equipment_owner_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_booking_request.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_booking_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\update_popup.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\update_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\equipment_entry.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\equipment_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_upload_equipment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_upload_equipment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\book_equipment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\book_equipment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_prediction.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_requested_equipment.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_requested_equipment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\equipment_booked.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\equipment_booked.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\app_bar.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_emergent_farmer_registration.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_emergent_farmer_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_emergent_farmer_login.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_emergent_farmer_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_equipment_owner_login.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_equipment_owner_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\equipment_requested.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\equipment_requested.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_customer_maps.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_customer_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_equipment_owner_dashboard.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_equipment_owner_dashboard.xml"
+    },
+    {
+        "merged": "com.firebase.authentication.app-mergeDebugResources-39:/layout/activity_equipment_owner_login.xml",
+        "source": "com.firebase.authentication.app-main-42:/layout/activity_equipment_owner_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_available_equipment_list.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_available_equipment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-mergeDebugResources-39:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.firebase.authentication.app-main-42:\\layout\\nav_header.xml"
+    }
+]

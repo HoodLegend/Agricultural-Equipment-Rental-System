@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebaseui:firebase-ui-database:4.3.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53ff0342c3b1d32da0cc98a7bc6b943b/jetified-firebase-ui-database-4.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8e4c983ba39010bc7ef0910cc1bd892e/transformed/jetified-firebase-ui-database-4.3.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e4c983ba39010bc7ef0910cc1bd892e/transformed/jetified-firebase-ui-database-4.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8e4c983ba39010bc7ef0910cc1bd892e/transformed/jetified-firebase-ui-database-4.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9f7ddc1a6ec6bcf8894796b49b08b4bb/transformed/jetified-firebase-ui-database-4.3.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9f7ddc1a6ec6bcf8894796b49b08b4bb/transformed/jetified-firebase-ui-database-4.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3d915c96f7effd197df36395613d87c5/transformed/jetified-firebase-ui-database-4.3.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3d915c96f7effd197df36395613d87c5/transformed/jetified-firebase-ui-database-4.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3d915c96f7effd197df36395613d87c5/transformed/jetified-firebase-ui-database-4.3.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-database/4.3.2/4e3e2b4e511da231be1bc2544422565ac4312513/firebase-ui-database-4.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-database/4.3.2/1645aac3753f2371393a22455e2f262def9bc4bf/firebase-ui-database-4.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

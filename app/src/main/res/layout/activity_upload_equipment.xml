@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.forms.UploadEquipmentActivity">
+
+
+    <TextView
+        android:id="@+id/upload_equipment_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:text="Upload Farm Equipment"
+        android:textColor="#171414"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/name_of_equipment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="20dp"
+        android:ems="10"
+        android:fontFamily="sans-serif-condensed"
+        android:hint="Enter Name of Equipment"
+        android:inputType="textPersonName"
+        android:textColor="#423D3D"
+        android:textColorHint="#373535"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/usage_of_equipment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="20dp"
+        android:ems="10"
+        android:fontFamily="sans-serif-condensed"
+        android:hint="Enter usage of Equipment"
+        android:inputType="textPersonName"
+        android:textColorHint="#323131"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/price_of_equipment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="20dp"
+        android:ems="10"
+        android:fontFamily="sans-serif-condensed"
+        android:hint="Enter Price Here"
+        android:inputType="number"
+        android:textColorHint="#333232"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/details_of_equipment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="20dp"
+        android:ems="10"
+        android:fontFamily="sans-serif-condensed"
+        android:hint="Enter Equipment Details"
+        android:inputType="textPersonName"
+        android:textColorHint="#393737"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/location_of_equipment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="20dp"
+        android:ems="10"
+        android:fontFamily="sans-serif-condensed"
+        android:hint="Enter Location Details"
+        android:inputType="textPersonName"
+        android:textColorHint="#393737"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/upload_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Upload"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:backgroundTint="#40A116" />
+
+    <Button
+        android:id="@+id/back_to_dashboard_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Cancel"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:backgroundTint="#D32F2F" />
+
+
+</LinearLayout>

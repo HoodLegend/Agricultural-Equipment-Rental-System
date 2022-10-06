@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mofya/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_available_equipment_list.xml" value="0.1" />
+        <entry key="..\:/Users/Mofya/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_available_equipment_list2.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Mofya/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_emergent_farmer_dashboard.xml" value="0.11231884057971014" />
+        <entry key="..\:/Users/Mofya/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_equipment_owner_dashboard.xml" value="0.11231884057971014" />
+        <entry key="..\:/Users/Mofya/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_upload_equipment.xml" value="0.1550925925925926" />
+        <entry key="..\:/Users/Mofya/AndroidStudioProjects/Authentication/app/src/main/res/layout/equipment_entry.xml" value="0.11231884057971014" />
+        <entry key="..\:/Users/Mofya/AndroidStudioProjects/Authentication/app/src/main/res/layout/equipment_view.xml" value="0.11231884057971014" />
+        <entry key="..\:/Users/Mofya/AndroidStudioProjects/Authentication/app/src/main/res/menu/owner_dashboard_nav_menu.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/activity_booking_request.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/activity_dashboard.xml" value="0.14447463768115942" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/activity_emergent_farmer_login.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/activity_emergent_farmer_registration.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/activity_equipment_owner_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/activity_equipment_owner_login.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/activity_equipment_owner_registration.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/activity_upload_equipment.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/app_bar.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/book_equipment.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/equipment_booked.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/equipment_entry.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/equipment_requested.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/nav_header.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/update_popup.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/menu/navigation_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Agricultural-Equpment-Rental-System-master/app/src/main/res/menu/owner_dashboard_nav_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System-master/app/src/main/res/layout/activity_requested_equipment.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/drawable/rounded.xml" value="0.122" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_available_equipment_list.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_booking_request.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_emergent_farmer_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_emergent_farmer_registration.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_equipment_booked.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_equipment_owner_dashboard.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_equipment_owner_registration.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_login.xml" value="0.2203125" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_prediction.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_profile.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_requested_equipment.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/activity_upload_equipment.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/app_bar.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/book_equipment.xml" value="0.15" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/content_available_equipment_list.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/equipment_booked.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/equipment_entry.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/equipment_requested.xml" value="0.22" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/header_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/list_of_equipment_for_book.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/nav_header.xml" value="0.22" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/layout/update_popup.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Agricultural-Equpment-Rental-System/app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

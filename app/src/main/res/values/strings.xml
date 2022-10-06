@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AERS</string>
+    <string name="desc_firebase_lockup">desc_firebase_lockup</string>
+    <string name="emailpassword_title_text">email_password_text</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="dashboard_header_title">Dashboard</string>
+    <string name="error_user_exists">User does Not Exist</string>
+    <string name="error_invalid_email">Email does not match with password.</string>
+    <string name="error_weak_password">Password is too weak!</string>
+    <string name="error_invalid_password">The Password is Invalid</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_equipment_owner_maps">Map</string>
+    <string name="title_activity_customer_maps">Map</string>
+    <string name="title_activity_available_equipment_list">AvailableEquipmentList</string>
+    <string name="title_activity_requested_equipment_list">RequestedEquipmentList</string>
+    <string name="title_activity_booked_equipment_list">BookedEquipmentList</string>
+    <string name="msg_token_fmt">Not set</string>
+    <string-array name="Roles">
+        <item>Equipment Owner</item>
+        <item>Customer</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebaseui:firebase-ui-common:4.3.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/deab1c5c78c4ec7c793262546e775a59/jetified-firebase-ui-common-4.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d8f4647d9b970bcb61b4b910f24d8e09/transformed/jetified-firebase-ui-common-4.3.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d8f4647d9b970bcb61b4b910f24d8e09/transformed/jetified-firebase-ui-common-4.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d8f4647d9b970bcb61b4b910f24d8e09/transformed/jetified-firebase-ui-common-4.3.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6b8c8bd93cafef7ee0d23e233262602e/transformed/jetified-firebase-ui-common-4.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6b8c8bd93cafef7ee0d23e233262602e/transformed/jetified-firebase-ui-common-4.3.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa6f88f52243bc31e110f6c52ac2458a/transformed/jetified-firebase-ui-common-4.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa6f88f52243bc31e110f6c52ac2458a/transformed/jetified-firebase-ui-common-4.3.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fa6f88f52243bc31e110f6c52ac2458a/transformed/jetified-firebase-ui-common-4.3.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/4.3.2/5cd90abad691ac2fea00a683a4bbdba40e10922/firebase-ui-common-4.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-common/4.3.2/27351f5ef8b3093adc936022f372871a14c935b3/firebase-ui-common-4.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

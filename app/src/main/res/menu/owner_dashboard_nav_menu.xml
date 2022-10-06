@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/owner_nav_Home"
+        android:checkable="false"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/owner_nav_available_equipment"
+        android:checkable="false"
+        android:icon="@drawable/ic_baseline_visibility_24"
+        android:title="View Equipment Uploaded" />
+
+    <item
+        android:id="@+id/owner_nav_upload_equipment"
+        android:checkable="false"
+        android:icon="@drawable/upload"
+        android:title="Upload Equipment" />
+
+
+    <item
+        android:id="@+id/owner_nav_current_requests"
+        android:checkable="false"
+        android:icon="@drawable/ic_baseline_arrow_forward_ios_24"
+        android:title="Current Requests" />
+
+
+    <item
+        android:id="@+id/owner_nav_logout"
+        android:checkable="false"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="SignOut" />
+
+</menu>
